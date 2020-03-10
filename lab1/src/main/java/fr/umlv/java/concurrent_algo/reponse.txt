@@ -1,0 +1,4 @@
+EXO 1 :
+
+EXO 2 :
+4) lock-free veut tout simplement indiquer que il y a toujours au oinis un thread qui progresse dans l'execution.
