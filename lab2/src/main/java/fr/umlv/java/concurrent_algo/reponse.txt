@@ -1,0 +1,7 @@
+EXO 1 :
+1) probleme de publication = acces à des variable non init. par du multi threading
+2) Vu que la variable n'est pas final, on peut créer l'objet sans avoir iniatiliser la variable et donc returner null dans le getValue
+3) Oui sur la valeur "name". Pour la corriger, on met name final mais on pourra pas le modifier
+4) Non car volatile garanti l'init. des autres champs (Ils faut que tout les champs volatiles soit init a la fin)
+5)Un thread dans un constructor est mauvais
+6)Oui car on utilise dans le thread les aprametres passé et non les champs de l'objet

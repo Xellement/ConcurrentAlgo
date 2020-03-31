@@ -1,13 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d95ca8fb-443e-4974-b4fa-bdad58b61853" name="Default Changelist" comment="" />
+    <list default="true" id="d95ca8fb-443e-4974-b4fa-bdad58b61853" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/umlv/java/concurrent_algo/Foo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/umlv/java/concurrent_algo/reponse.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/umlv/java/concurrent_algo/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/fr/umlv/java/concurrent_algo/AppTest.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1YvfDVZTFwUIusBagXvo928LlDt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,9 +33,45 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/fr/umlv/java/concurrent_algo" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.COWSet">
+    <configuration name="COWSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.umlv.java.concurrent_algo.COWSet" />
+      <module name="lab2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.umlv.java.concurrent_algo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LockFreeStringList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.umlv.java.concurrent_algo.LockFreeStringList" />
+      <module name="lab2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.umlv.java.concurrent_algo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.COWSet" />
+        <item itemvalue="Application.LockFreeStringList" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -29,11 +83,47 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583827868218</updated>
-      <workItem from="1583827872162" duration="310000" />
+      <workItem from="1583827872162" duration="9176000" />
+      <workItem from="1583914059291" duration="19000" />
+      <workItem from="1584381195640" duration="3274000" />
+      <workItem from="1584437331559" duration="101000" />
+      <workItem from="1584694429107" duration="742000" />
+      <workItem from="1585640815327" duration="319000" />
+      <workItem from="1585641261603" duration="1581000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1173" y="301" width="524" height="505" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583832836053">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="1173" y="301" width="524" height="505" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1583832836053" />
+    <state width="1870" height="285" key="GridCell.Tab.0.bottom" timestamp="1584430841188">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1870" height="30" key="GridCell.Tab.0.bottom/0.28.1920.1052@0.28.1920.1052" timestamp="1583844629294" />
+    <state width="1870" height="285" key="GridCell.Tab.0.bottom/0.40.1920.1040@0.40.1920.1040" timestamp="1584430841188" />
+    <state width="1870" height="285" key="GridCell.Tab.0.center" timestamp="1584430841187">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1870" height="30" key="GridCell.Tab.0.center/0.28.1920.1052@0.28.1920.1052" timestamp="1583844629293" />
+    <state width="1870" height="285" key="GridCell.Tab.0.center/0.40.1920.1040@0.40.1920.1040" timestamp="1584430841187" />
+    <state width="1870" height="285" key="GridCell.Tab.0.left" timestamp="1584430841186">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1870" height="30" key="GridCell.Tab.0.left/0.28.1920.1052@0.28.1920.1052" timestamp="1583844629293" />
+    <state width="1870" height="285" key="GridCell.Tab.0.left/0.40.1920.1040@0.40.1920.1040" timestamp="1584430841186" />
+    <state width="1870" height="285" key="GridCell.Tab.0.right" timestamp="1584430841187">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1870" height="30" key="GridCell.Tab.0.right/0.28.1920.1052@0.28.1920.1052" timestamp="1583844629294" />
+    <state width="1870" height="285" key="GridCell.Tab.0.right/0.40.1920.1040@0.40.1920.1040" timestamp="1584430841187" />
+    <state x="719" y="332" width="471" height="443" key="chooseDestDirectoryDialog" timestamp="1583838215207">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="719" y="332" width="471" height="443" key="chooseDestDirectoryDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1583838215207" />
   </component>
 </project>
